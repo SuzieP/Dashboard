@@ -21,7 +21,7 @@ Of all female candidates 18% receive a job offer.**
 
 ##### Is the difference between the actual gender ratio and the expected gender ratio evidence of bias or randomness?
 
-##### Statistical tests attribute the disparity in the ratios to gender bias rather and identify the following biases per recruitment stage:
+##### Chi squared statistical tests attribute the disparity in the ratios to gender bias and identify the following biases per recruitment stage:
 * Screening Stage : No significant gender bias.
 * Assessment Stage : Significant gender bias favoring males over females.
 * Interview Stage : Significant gender bias favoring females over males. 
